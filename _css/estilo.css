@@ -1,0 +1,229 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200805/pngtree-abstract-futuristic-digital-technology-blue-and-black-background-illustration-image_383951.jpg"); background-repeat: no-repeat; 
+    background-size: cover;
+    
+    width: 100vh;
+    height: 100vh;
+    margin: 0 auto;
+   
+}   
+.logo img{
+    position: absolute;
+    left: 37px;
+    top: 28px;
+    max-width: 179px;
+    max-height: 101px;
+}
+.face img{
+    position: absolute;
+    left: 38px;
+    top: 224px;
+    max-width: 171px;
+    max-height: 69px;
+}
+.insta img{
+    position: absolute;
+    left: 38px;
+    top: 354px;
+    max-width: 171px;
+    max-height: 69px;
+}
+.barra img{
+    position: absolute;
+    left: 305px;
+    top: 94px;
+    max-width: 803px;
+    max-height: 35px;
+}
+.icone img{
+    position: absolute;
+    left: 1164px;
+    top: 89px;
+    max-width: 50px;
+    max-height: 89px;
+}
+.carrinho img{
+    position: absolute;
+    left: 1248px;
+    top: 89px;
+    max-width: 81px;
+    max-height: 89px;
+}
+.mv img{
+    position: absolute;
+    left: 396px;
+    top: 186px;
+    max-height: 20px;
+    max-width: 628px;
+}
+.mouse img{
+    position: absolute;
+    left: 321px;
+    top: 224px;
+    max-width: 136px;
+    max-height: 224px;
+    cursor: pointer;
+}
+.gpu img{
+    position: absolute;
+    left: 512px;
+    top: 224px;
+    max-width: 152px;
+    max-height: 120px;
+}
+.ps4 img{
+    position: absolute;
+    left: 723px;
+    top: 224px;
+    max-width: 162px;
+    max-height: 120px;
+}
+.fone img{
+    position: absolute;
+    left: 948px;
+    top: 224px;
+    max-width: 151px;
+    max-height: 120px;
+}
+.controle img{
+    position: absolute;
+    left: 314px;
+    top: 384px;
+    max-width: 142px;
+    max-height: 120px;
+}
+.monitor img{
+    position: absolute;
+    left: 512px;
+    top: 384px;
+    max-width: 151px;
+    max-height: 120px;
+}
+.teclado img{
+    position: absolute;
+    left: 722px;
+    top: 382px;
+    max-width: 163px;
+    max-height: 120px;  
+}
+.cadeira img{
+    position: absolute;
+    left: 948px;
+    top: 384px;
+    max-width: 151px;
+    max-height: 120px;
+}
+.telefone {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 68px;
+    top: 545px;
+    max-width: 188px;
+    max-height: 21px;
+    font-size: 18px;
+}
+.numero{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 105px;
+    top: 565px;
+    max-width: 151px;
+    max-height: 17px;
+    font-size: 18px;
+    }
+    .mail{
+        color: white;
+        font-family: sans-serif;
+        position: absolute;
+        left: 385px;
+        top: 545px;
+        max-width: 180px;
+        max-height: 21px;
+        font-size: 18px;
+        
+    }
+    .email{
+        color: white;
+        font-family: sans-serif;
+        position: absolute;
+        left: 363px;
+        top: 565px;
+        max-width: 151px;
+        max-height: 17px;
+        font-size: 18px;    
+    }
+    .local{
+        color: white;
+        font-family: sans-serif;
+        position: absolute;
+        left: 695px;
+        top: 545px;
+        max-width: 190px;
+        max-height: 25px;
+        font-size: 18px;
+    }
+    .endereço{
+        color: white;
+        font-family: sans-serif;
+        position: absolute;
+        left: 722px;
+        top: 585px;
+        max-width: 151px;
+        max-height: 17px;
+        font-size: 14px;
+    }
+.nos{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 1040px;
+    top: 545px;
+    max-width: 180px;
+    max-height: 25px;
+    font-size: 18px;
+}
+.quem{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 1022px;
+    top: 585px;
+    max-width: 151px;
+    max-height: 17px;
+    font-size: 12px;
+
+}
+.preco{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    max-width: 130px;
+    max-height: 56px; 
+    margin-top: -10%;
+    margin-left: 40%;
+    font-weight: bold;
+       
+}
+.adicarrinho img{
+    margin-top: -15%;
+    position: absolute;
+    margin-left: 40%;
+}
+
+
+.iconproduto img{
+  margin-top: 30%;
+}
+.produnome{
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    max-width: 130px;
+    max-height: 56px; 
+    margin-top: -15%;
+    margin-left: 15%;
+    font-weight: bold;
+}
+
